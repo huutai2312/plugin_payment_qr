@@ -5,7 +5,6 @@
  * @package    Mc_Quetma
  * @subpackage Mc_Quetma/includes
  */
-
 /**
  * Fired during plugin deactivation.
  *
