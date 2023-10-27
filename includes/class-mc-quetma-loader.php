@@ -109,6 +109,7 @@ class Mc_Quetma_Loader {
 	 *
 	 * @since    1.0.0
 	 */
+	
 	public function run() {
 
 		foreach ( $this->filters as $hook ) {
